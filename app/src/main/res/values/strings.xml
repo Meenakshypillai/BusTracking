@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bus Tracking</string>
+
+    <string name="home_fragment">Home fragment</string>
+    <string name="java_fragment">Track Bus</string>
+    <string name="android_fragment">Find Bus</string>
+    <string name="php_fragment">Php fragment</string>
+
+    <string name="source_prompt">Source</string>
+
+    <string-array name="source_arrays">
+        <item>Trivandrum</item>
+        <item>Kollam</item>
+        <item>Pathanamthitt</item>
+        <item>Kottayam</item>
+        <item>Alapuzha</item>
+       <item>idukki</item>
+        <item>Ernakulam</item>
+        <item>Thrissur</item>
+        <item>Palakkad</item>
+        <item>Malappuram</item>
+        <item>Kozhikkode</item>
+        <item>Kannur</item>
+        <item>Kazargod</item>
+
+    </string-array>
+
+</resources>
